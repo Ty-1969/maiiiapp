@@ -1,10 +1,11 @@
 MAIII App 支援與隱私政策
+MAIII App support & privacy
 
-此站點包含 Maiii 系列 App 的共用與專屬隱私政策與支援頁面。
+This site contains the public privacy policies and support pages for Maiii apps. English pages are available under `/en/`.
 
-目錄
-- /privacy/common.html （共用隱私主文）
-- /privacy/{app}.html （App 專屬附錄）
-- /support/common.html （共用支援）
-- /support/{app}.html （App 專屬支援）
+Structure
+- `/en/privacy/common.html` (common privacy policy)
+- `/en/privacy/{app}.html` (app-specific addendum)
+- `/en/support/common.html` (common support)
+- `/en/support/{app}.html` (app-specific support)
 
