@@ -7,4 +7,3 @@ Structure
 - `/en/privacy/{app}.html` (app-specific addendum)
 - `/en/support/common.html` (common support)
 - `/en/support/{app}.html` (app-specific support)
-
