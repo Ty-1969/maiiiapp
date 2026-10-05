@@ -18,7 +18,9 @@ Third-party services
 - By default, apps do not integrate third-party analytics or upload browsing content. If we add third-party SDKs (e.g., analytics or crash reporting), we will update the policy and list them on the app page.
 
 User rights
-- To request access, export, or deletion of your data, contact us at the address above. We will respond following applicable laws.
+User rights
+- If your data is stored only on your device and has not been uploaded to our servers, we cannot delete it remotely. See the support pages for instructions on deleting local data (for example, using in-app settings or removing the app from your device).
+- If any personal data has been uploaded to our servers (we will disclose such cases on the app's page), you may request access, export, or deletion by contacting us at the email above; we will respond and process requests according to applicable laws.
 
 Changes
 - We may update this policy; the last updated date above will reflect changes.
