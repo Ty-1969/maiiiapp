@@ -1,0 +1,23 @@
+{
+  "apps": [
+    {
+      "slug": "happypoke",
+      "bundle_id": "com.happypoke.app",
+      "privacy_url": "https://Ty-1969.github.io/maiiiapp/privacy/happypoke.html",
+      "support_url": "https://Ty-1969.github.io/maiiiapp/support/happypoke.html"
+    },
+    {
+      "slug": "maiiifocus",
+      "bundle_id": "tw.maiii.MaiiiFocus",
+      "privacy_url": "https://Ty-1969.github.io/maiiiapp/privacy/maiiifocus.html",
+      "support_url": "https://Ty-1969.github.io/maiiiapp/support/maiiifocus.html"
+    },
+    {
+      "slug": "maiiifinale",
+      "bundle_id": "com.maiii.MaiiiFinale",
+      "privacy_url": "https://Ty-1969.github.io/maiiiapp/privacy/maiiifinale.html",
+      "support_url": "https://Ty-1969.github.io/maiiiapp/support/maiiifinale.html"
+    }
+  ]
+}
+
